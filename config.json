@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfncrypt",
+        "uuid": 9127023,
+        "checksum": "nfm01s"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
